@@ -1,8 +1,0 @@
-# 4x4 Tic-Tac-Toe
-
-Finish debugging the lab program, and make sure it works. One way to make sure it works in the right
-way is to extend the program to play on a 4x4 board, instead of a 3x3 board. If you’ve made the correct
-changes, all you should need to change is the constant for BOARD_SIZE at the top of the program (and
-the cout statements that ask for a number from 0-2). You should check to make sure, though, that you
-don’t have any loops that end at 3 (instead of BOARD_SIZE, or the size of the vector).
-Make sure you test your 4x4 program well, and then hand it in to me (by email, at stmccull@owu.edu)

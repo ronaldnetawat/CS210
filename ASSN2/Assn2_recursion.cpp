@@ -1,39 +1,3 @@
-
-Conversation opened. 2 messages. All messages read.
-
-Skip to content
-Using Ohio Wesleyan University Mail with screen readers
-in:sent stmccull@owu.edu 
-
-15 of 17
-HW02
-Inbox
-
-Ron Netawat <rrnetawat@owu.edu>
-Attachments
-Mon, Jan 31, 2022, 1:47 PM
-to Sean
-
-Hello, Professor.
-
-Please find attached my solution to HW02. I am attaching two files - one for the functions with loops, and the other for the recursive functions.
-
-Thank you.
-
-Kind regards,
-Ron.
-
-
-2
- Attachments
-  •  Scanned by Gmail
-
-Sean McCulloch <stmccull@owu.edu>
-Mon, Jan 31, 2022, 4:29 PM
-to me
-
-got it
-
 #include <iostream>
 #include <vector>
 #include <string>
